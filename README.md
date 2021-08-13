@@ -6,7 +6,7 @@ Above mentioned source continuously updates recent scores. So values for current
 For this project, data was taken before 07 September (2021) from the above mentioned link.
 
 Objectives:
-#### - Reading CSV, Excel file
-#### - Adding/Removing columns
+- Reading CSV, Excel file
+- Adding/Removing columns
 .....
 
