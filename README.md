@@ -9,6 +9,8 @@ For convenience, Used version of the project file wickets.csv is added in this r
 
 Objectives:
 - Reading CSV, Excel file
-- Adding/Removing columns
-.....
-
+- Checking data types & basic statistics
+- Adding, Removing, Renaming, Splitting, Dropping columns of dataframe
+- Converting data types, Column calculations withing datafram
+- Dataframe concatanating, sorting, slicing
+- Ultimately, extracting meaningful information from the dataset
